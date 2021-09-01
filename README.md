@@ -18,11 +18,10 @@ Microsoft sees all the big companies creating original video content and they wa
 
 In the folder `zippedData` are movie datasets from:
 
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
+* Box Office Mojo
+* IMDB
+* Rotten Tomatoes
+* TheMovieDB.org
 
 It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
 
