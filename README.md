@@ -80,7 +80,7 @@ Of the total 2703 actors, this chart represents the top 50 actors based on their
 ![graph1](./images/month_roi_chart.png)
 
 
-May and June both yield an average return on investment of 270 million dollars, which are by far the highest returns. These are followed by July with an average roi of 210 million. These round out the top 3, and the only months with average roi(s) greater than or equal to, 2 billion dollars. September is the month with the lowest average roi, at 72 million. It is followed by October and January with average roi(s) of 78 million, and 86 million dollars respectively. The rest of the months have an average roi between 130 and 180 million dollars, with th exception of August, which is considerably lower at about 100 million.
+May and June both yield an average return on investment of 270 million dollars, which are by far the highest returns. These are followed by July with an average roi of 210 million. These round out the top 3, and the only months with average roi(s) greater than or equal to, 200 million dollars. September is the month with the lowest average roi, at 72 million. It is followed by October and January with average roi(s) of 78 million, and 86 million dollars respectively. The rest of the months have an average roi between 130 and 180 million dollars, with th exception of August, which is considerably lower at about 100 million.
 
 
 ## Conclusions
