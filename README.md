@@ -1,10 +1,8 @@
-http://localhost:8888/edit/README.md## Title
-
 ![image1](./images/director_shot.jpeg)
 
 
 **Authors**: Freddy Abrahamson
-
+# <br><br>Using Descriptive Analysis to Make Recommendations as to Which Types of Movies Are Most Profitable
 ## Overview
 
 The goal of this project is to compare commercial films based on shared traits, such as genre, principal actors/ directors, or release month, in order to determine which types of films are most profitable. The information for this project is derived from several data sets, taken from various reputable movie related websites. I will choose the information I need from these data sets, and import them to pandas. I will clean the data if necessary, and join dataframes to make one large dataframe. I will then use this dataframe to make visualizations that will help give some insights as to which films are most profitable based on return on investment.
